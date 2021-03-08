@@ -15,3 +15,13 @@
 # vendor/
 
 assets/
+
+*.vlog
+*.mem
+DISCARD
+KEYREGISTRY
+*db*
+MANIFEST
+__debug_bin
+.vscode
+
